@@ -3,6 +3,11 @@
   "symbol": "FOMO",
   "description": "OFFICIAL FOMO token.",
   "image": "https://raw.githubusercontent.com/Barrygeorgecyb/official-fomo-token/refs/heads/main/OFFICIAL_FOMO.jpg",
+  "external_url": "https://fomo.family",
+  "extensions": {
+    "website": "https://fomo.family",
+    "twitter": "https://x.com/fomo"
+  },
   "attributes": [],
   "properties": {
     "files": [
